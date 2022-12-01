@@ -22,3 +22,8 @@
 	path = ingadhoc/argentina-sale
 	url = git@github.com:ingadhoc/argentina-sale.git
 	branch = 16.0
+
+[submodule "ingadhoc/hr"]
+	path = ingadhoc/hr
+	url = git@github.com:ingadhoc/hr.git
+	branch = 16.0
